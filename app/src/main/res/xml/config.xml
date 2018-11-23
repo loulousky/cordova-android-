@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.gamedog.jiugeh5project" version="0.0.5" >
+    <name>LightApp</name>
+    <description>
+        sample app
+    </description>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-navigation href="*" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="LoadUrlTimeoutValue" value="8000" />
+    <preference name="Fullscreen" value="true" />
+
+    <preference name="KeepRunning" value="false"/>
+    <preference name="LoadUrlTimeoutValue" value="10000"/>
+    <preference name="SplashScreen" value="splash_wel"/>
+    <preference name="SplashScreenDelay" value="10000"/>
+    <preference name="InAppBrowserStorageEnabled" value="true"/>
+    <preference name="LoadingDialog" value="My Title,My Message"/>
+    <preference name="LoadingPageDialog" value="My Title,My Message"/>
+    <preference name="ErrorUrl" value="myErrorPage.html"/>
+    <preference name="ShowTitle" value="false"/>
+    <preference name="LogLevel" value="VERBOSE"/>
+    <preference name="AndroidLaunchMode" value="singleTop"/>
+
+    <platform name="android">
+        <icon src="res/drawable/splash_wel.png" density="ldpi" />
+        <icon src="res/drawable/splash_wel.png" density="mdpi" />
+        <icon src="res/drawable/splash_wel.png" density="hdpi" />
+        <icon src="res/drawable/splash_wel.png" density="xhdpi" />
+    </platform>
+
+</widget>

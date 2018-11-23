@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">九哥H5游戏盒</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_page_one">游戏</string>
+    <string name="home_page_two">礼包</string>
+    <string name="home_page_three">开服</string>
+    <string name="home_page_four">个人</string>
+    <string name="title_activity_h5detail">H5detailActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+</resources>

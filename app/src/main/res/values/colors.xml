@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FE8A25</color>
+    <color name="colorPrimaryDark">#FE8A25</color>
+    <color name="colorAccent">#FE8A25</color>
+
+
+    <color name="home_bar_text_normal">#6a6c6f</color>
+    <color name="home_bar_text_push">#FE8A25</color>
+    <color name="textnormal">#adadad</color>
+    <color name="table_background">#F0F0F0</color>
+</resources>
